@@ -1,0 +1,16 @@
+{
+    "name": "PostEnot.InteractionSystem.Runtime",
+    "rootNamespace": "PostEnot.Toolkits.InteractionSystem",
+    "references": [
+        "GUID:1d2573f04a20dc141b0efc6446bc67f4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
